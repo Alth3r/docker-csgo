@@ -11,4 +11,4 @@ jobs:
           find: "/home/csgo"
           replace: "/home/container"
           regex: false
-          include: "/base/**"
+          include: "base/**"
