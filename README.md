@@ -1,4 +1,4 @@
-# docker-csgo
+# docker-csgo (custom)
 
 <p>
   <a href="https://github.com/timche/docker-csgo-updater">
